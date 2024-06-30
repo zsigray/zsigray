@@ -2,7 +2,7 @@
 <h2 align="center">Business Informatics Engineer 📍 based in Budapest, Hungary</h2>
 <h3 align="center">currently learning Full-stack development and DevOps engineering, actively searching for new roles where I can utilize my skills and contribute to the success of my team and organization.</h3>
 
-✨ I'm particularly interested in roles in Frontend development, Full-stack development with DevOps practices.
+✨ I'm particularly interested in roles in Full-stack development with DevOps practices.
 
 🌱 I’m currently learning **at Codecool Budapest, a market leading tech bootcamp.**
 
