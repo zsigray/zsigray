@@ -1,23 +1,11 @@
 <h1 align="center">👋Welcome to my page, I'm Zsófi Zsigray</h1>
 <h2 align="center">Business Informatics Engineer 📍 based in Budapest, Hungary</h2>
-<h3 align="center">currently learning Full-stack development and DevOps engineering, actively searching for new roles where I can utilize my skills and contribute to the success of my team and organization.</h3>
-
-✨ I'm particularly interested in roles in Full-stack development with DevOps practices.
-
-🌱 I’m currently learning **at Codecool Budapest, a market leading tech bootcamp.**
 
 👩‍💻 **Short introduction:**
 
 As a dedicated **DevOps** enthusiast with a **background in Business Informatics**, I specialize in operating between code and deployment while also bridging the gap between business and software.
 
 🟠 Within the domain of ***DevOps***, my primary focus is expanding my expertise across the tech stack. Presently, I am actively acquiring proficiency in **Linux** Administration, **Bash** scripting, **AWS** as a Cloud Service Provider, **Docker** and **Kubernetes** for Containerization and Orchestration. Additionally, I am familiarizing myself with **Terraform** as an Infrastructure as Code (IaC) tool and **Jenkins** for Continuous Integration and Continuous Deployment (CI/CD). 
-
-🟢 As a **Full-Stack Developer** I have gained vast experience through various solo and team projects in the MERN stack (**MongoDB, Express.js, React, Node.js**) and in **Java** application development. I also have experience in **C#** and **PHP** backend development. I have a robust understanding of **SQL** databases, and have worked with diverse SQL dialects including **PostgreSQL, SQLite, MySQL, Db2 and Oracle**.
-
-<h3 align="left">Please see my portfolio projects: </h3>
-⚔️ <a href="https://github.com/zsigray/Dungeon-Crawl.git" target="blank"> Dungeon Crawl team project - a Java Game </a><br>
-🐉 <a href="https://github.com/zsigray/Pokemon-Game.git" target="blank"> Pokemon Card Game team project - a Web Game </a>
-
 
 <h3 align="left">You can contact me</h3>
 
